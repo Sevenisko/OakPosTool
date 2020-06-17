@@ -18,6 +18,6 @@ Oakwood Position Tool is a Gamemode, which is used mainly for Getting positions 
 ## Commands
 * /help -> Implemented in SharpWood (shows avaiable commands)
 * /getpos -> Gets your current position
-* /distance <string pos1Name> <string pos2Name> -> Gets distance between two positions
-* /writepos <string posName> -> Writes your current position into file
-* /readpos <string posName> -> Reads and sets your position from file
+* /distance (string pos1Name) (string pos2Name) -> Gets distance between two positions
+* /writepos (string posName) -> Writes your current position into file
+* /readpos (string posName) -> Reads and sets your position from file
